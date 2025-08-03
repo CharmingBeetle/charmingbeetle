@@ -38,7 +38,7 @@ Dentist-turned-developer. Full-stack curiosity. Interested in building things th
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [StudyBuddAI](https://github.com/CharmingBeetle/Study_BuddAI_FE) (*or /Study_BuddAI_BE*) | 🧠 AI-powered quiz app from PDF uploads. Uses MySQL, pdf-parse, and Gemini. | TypeScript, Express, AWS |
+| [StudyBuddAI](https://github.com/CharmingBeetle/Study_BuddAI_BE) (*or /Study_BuddAI_FE*) | 🧠 AI-powered quiz app from PDF uploads. Uses MySQL, pdf-parse, and Gemini. | TypeScript, Express, AWS |
 | [ThoughtBubble aka. NC News](https://github.com/CharmingBeetle/nc_news) | 🗞️ A Reddit-style news API with full CRUD functionality. Built during Northcoders bootcamp with RESTful routing, error handling & PostgreSQL queries. | Node.js, Express, PostgreSQL |
 | [MissCapital](https://github.com/CharmingBeetle/BudgetApp) | 💰 JS app for managing monthly expenses. Built during Code First Girls project | JavaScript |
 
