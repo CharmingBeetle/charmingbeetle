@@ -48,8 +48,6 @@ Dentist-turned-developer. Full-stack curiosity. Interested in building things th
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CharmingBeetle&show_icons=true&hide=issues&theme=radical" alt="Nina's GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharmingBeetle&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
