@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Nina 👋</h1>
 <p align="center">
+  <img src="./nina.jpg" width="150" style="border-radius: 50%;" alt="Nina smiling">
+</p>
+<p align="center">
 Dentist-turned-developer. Full-stack curiosity. Interested in building things that make life cooler and smoother.
 </p>
 
